@@ -1,3 +1,3 @@
 # rustlings
 
-Solutions for the rustligns exercises
+Solutions for the rustlings exercises
